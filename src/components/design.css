@@ -1,0 +1,26 @@
+body {
+  background-color: aqua;
+  text-align: center;
+}
+
+.Main {
+  text-align: left;
+  border: 1px solid black;
+  display: inline-block;
+  padding: 100px;
+  margin: 100px;
+}
+form {
+}
+
+label {
+  font-size: 150%;
+}
+input {
+  height: 50px;
+  width: 300px;
+  background-color: aqua;
+  border: 1px solid aqua;
+  border-bottom: 1px solid black;
+  padding: 0;
+}
